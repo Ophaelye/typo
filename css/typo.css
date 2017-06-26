@@ -1,11 +1,26 @@
+body {
+  background-color: #7FA3B2;
+}
+
 p {
   align: left;
   width: 80em;
   color: #222222;
   font-family: 'Roboto Slab', serif;
+  background-color: #B27983;
+  color: #FFFBA4;
 
 }
 
 title {
     font-family: 'Bubbler One', sans-serif;
+}
+
+.else {
+align: left;
+width: 80em;
+color: #222222;
+font-family: 'Roboto Slab', serif;
+color: #B27983;
+background-color: #FFFBA4;
 }
